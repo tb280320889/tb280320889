@@ -36,7 +36,6 @@ Full-stack engineer based in China, **10+ years** across the JVM ecosystem, now 
       <a href="https://github.com/openclosed-org/axum-harness"><b>axum-harness</b></a> — Production Rust backend: DDD, CAS, outbox, GitOps<br/>
       <a href="https://github.com/tb280320889/geek-taste"><b>geek-taste</b></a> — Rust playground for exploring ideas<br/>
       <a href="https://github.com/tb280320889/what-the-code-doing"><b>what-the-code-doing</b></a> — Code analysis tooling in Rust<br/>
-      <a href="https://github.com/tb280320889/cc-switch"><b>cc-switch</b></a> — AIO assistant for Claude Code / Codex / OpenCode / Gemini CLI
     </td>
     <td width="50%" valign="top">
       <h3>AI & Agent Tooling</h3>
@@ -76,12 +75,12 @@ Full-stack engineer based in China, **10+ years** across the JVM ecosystem, now 
 
 ### Journey
 
-| Era | Stack | Focus |
-|-----|-------|-------|
-| 2014-2018 | Java, Scala, Kotlin | Backend systems, design patterns, Spring ecosystem, Spark |
-| 2019-2024 | Kotlin, Java | Enterprise backend, security, microservices |
-| 2025 | TypeScript, Svelte, Dart, Godot | Full-stack pivots, game dev exploration, MCP services |
-| 2026 -> | Rust, TypeScript, Go | AI-native tooling, agent OS, production backend architectures |
+| Era       | Stack                           | Focus                                                         |
+| --------- | ------------------------------- | ------------------------------------------------------------- |
+| 2014-2018 | Java, Scala, Kotlin             | Backend systems, design patterns, Spring ecosystem, Spark     |
+| 2019-2024 | Kotlin, Java                    | Enterprise backend, security, microservices                   |
+| 2025      | TypeScript, Svelte, Dart, Godot | Full-stack pivots, game dev exploration, MCP services         |
+| 2026 ->   | Rust, TypeScript, Go            | AI-native tooling, agent OS, production backend architectures |
 
 ---
 
