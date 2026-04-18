@@ -95,7 +95,7 @@ Full-stack engineer based in China, **10+ years** across the JVM ecosystem, now 
 </div>
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=tb280320889&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=tb280320889&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
