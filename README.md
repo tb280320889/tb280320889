@@ -91,11 +91,15 @@ Full-stack engineer based in China, **10+ years** across the JVM ecosystem, now 
 </div>
 
 <div align="center">
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tb280320889&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tb280320889&theme=tokyo-night&hide_border=true&area=true&cachebust=1" alt="GitHub Activity Graph" />
+  </a>
 </div>
 
 <div align="center">
-  [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=tb280320889&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=tb280320889&theme=tokyonight&no-frame=true&column=7&cachebust=1" alt="GitHub Profile Trophy" />
+  </a>
 </div>
 
 ---
