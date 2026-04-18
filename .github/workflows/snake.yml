@@ -31,6 +31,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Save the generated files before branch switch
+          mv dist /tmp/snake-dist
+
           # Create or checkout the output branch
           git fetch origin output 2>/dev/null || true
           if git show-ref --verify --quiet refs/remotes/origin/output; then
@@ -40,9 +43,9 @@ jobs:
             git rm -rf . 2>/dev/null || true
           fi
 
-          # Copy generated files
-          rm -rf * .* 2>/dev/null || true
-          cp -r dist/* .
+          # Restore generated files and clean working dir
+          rm -rf *
+          cp -r /tmp/snake-dist/* .
 
           git add -A
           git commit -m "Update snake animation" --allow-empty
